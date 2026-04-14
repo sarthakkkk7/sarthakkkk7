@@ -1,6 +1,7 @@
+# **🕵🏻‍♂️Sarthak Deshmukh**
 <div align="center">
   <a href="https://github.com/sarthakkkk7">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Sarthak;Aspiring+Data+Engineer;Python+%E2%80%A2+Airflow+%E2%80%A2+PostgreSQL;Building+Scalable+ETL+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Sarthak🧛🏻‍♂️;Aspiring+Data+Engineer;Python+%E2%80%A2+Airflow+%E2%80%A2+PostgreSQL;Building+Scalable+ETL+Pipelines" alt="Typing SVG" />
   </a>
 </div>
 
