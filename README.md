@@ -63,6 +63,5 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakkkk7&theme=tokyonight" alt="Sarthak's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sarthakkkk7&theme=tokyonight&hide_current_streak=true" alt="Sarthak's Streak Stats" />
 </div>
