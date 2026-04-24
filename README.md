@@ -54,7 +54,7 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9a95848e-5c23-418d-9a62-1418b1824fc4" /></a>
 
 </div>
 
